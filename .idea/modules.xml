@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Initial Font Code/19-separatequerymodify/19-separatequerymodify.iml" filepath="$PROJECT_DIR$/Refactoring Finals Initial Font Code/19-separatequerymodify/19-separatequerymodify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Solutions/19-separatequerymodify/19-separatequerymodify1.iml" filepath="$PROJECT_DIR$/Refactoring Finals Solutions/19-separatequerymodify/19-separatequerymodify1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Solutions/20-parametrizemethod/20-parametrizemethod.iml" filepath="$PROJECT_DIR$/Refactoring Finals Solutions/20-parametrizemethod/20-parametrizemethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Initial Font Code/20-parametrizemethod/20-parametrizemethod1.iml" filepath="$PROJECT_DIR$/Refactoring Finals Initial Font Code/20-parametrizemethod/20-parametrizemethod1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Initial Font Code/21-replaceparameterwitexplicitmethod/21-replaceparameterwitexplicitmethod.iml" filepath="$PROJECT_DIR$/Refactoring Finals Initial Font Code/21-replaceparameterwitexplicitmethod/21-replaceparameterwitexplicitmethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Solutions/21-replaceparameterwitexplicitmethod/21-replaceparameterwitexplicitmethod1.iml" filepath="$PROJECT_DIR$/Refactoring Finals Solutions/21-replaceparameterwitexplicitmethod/21-replaceparameterwitexplicitmethod1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Solutions/22-Substitute-Algorithm/22-Substitute-Algorithm.iml" filepath="$PROJECT_DIR$/Refactoring Finals Solutions/22-Substitute-Algorithm/22-Substitute-Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Initial Font Code/22-Substitute-Algorithm/22-Substitute-Algorithm1.iml" filepath="$PROJECT_DIR$/Refactoring Finals Initial Font Code/22-Substitute-Algorithm/22-Substitute-Algorithm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Solutions/23-extract-class/23-extract-class.iml" filepath="$PROJECT_DIR$/Refactoring Finals Solutions/23-extract-class/23-extract-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Initial Font Code/23-extract-class/23-extract-class1.iml" filepath="$PROJECT_DIR$/Refactoring Finals Initial Font Code/23-extract-class/23-extract-class1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Solutions/24-inlineclass/24-inlineclass.iml" filepath="$PROJECT_DIR$/Refactoring Finals Solutions/24-inlineclass/24-inlineclass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Initial Font Code/24-inlineclass/24-inlineclass1.iml" filepath="$PROJECT_DIR$/Refactoring Finals Initial Font Code/24-inlineclass/24-inlineclass1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Solutions/25-hide-delegate/25-hide-delegate.iml" filepath="$PROJECT_DIR$/Refactoring Finals Solutions/25-hide-delegate/25-hide-delegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Initial Font Code/25-hide-delegate/25-hide-delegate1.iml" filepath="$PROJECT_DIR$/Refactoring Finals Initial Font Code/25-hide-delegate/25-hide-delegate1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Refactorin14-28.iml" filepath="$PROJECT_DIR$/.idea/Refactorin14-28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Initial Font Code/Refactoring Finals Initial Font Code.iml" filepath="$PROJECT_DIR$/Refactoring Finals Initial Font Code/Refactoring Finals Initial Font Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Refactoring Finals Solutions/Refactoring Finals Solutions.iml" filepath="$PROJECT_DIR$/Refactoring Finals Solutions/Refactoring Finals Solutions.iml" />
+    </modules>
+  </component>
+</project>

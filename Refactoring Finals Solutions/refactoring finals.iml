@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/14-consolidateduplicateconditional" isTestSource="false" packagePrefix="xxx.refactorings" />
+      <sourceFolder url="file://$MODULE_DIR$/15-removecontrolflag" isTestSource="false" packagePrefix="xxx.refactorings" />
+      <sourceFolder url="file://$MODULE_DIR$/16-replacenestedconditionalguardclauses" isTestSource="false" packagePrefix="XXX.refactorings" />
+      <sourceFolder url="file://$MODULE_DIR$/17-replaceconditionalwithpolymorphism" isTestSource="false" packagePrefix="XXX.refactorings" />
+      <sourceFolder url="file://$MODULE_DIR$/18-introducenullobject" isTestSource="false" packagePrefix="XXX.refactorings" />
+      <sourceFolder url="file://$MODULE_DIR$/26-introduceforeignmethod" isTestSource="false" packagePrefix="refactoritzacions" />
+      <sourceFolder url="file://$MODULE_DIR$/27-introducelocalextension" isTestSource="false" packagePrefix="refactoritzacions" />
+      <sourceFolder url="file://$MODULE_DIR$/28-replacedatawithobject" isTestSource="false" packagePrefix="refactoritzacions" />
+      <sourceFolder url="file://$MODULE_DIR$/29-encapsulatecollection" isTestSource="false" packagePrefix="refactoritzacions" />
+      <sourceFolder url="file://$MODULE_DIR$/30-pullup" isTestSource="false" packagePrefix="refactoritzacions" />
+      <sourceFolder url="file://$MODULE_DIR$/31-pushdown" isTestSource="false" packagePrefix="refactoritzacions" />
+      <sourceFolder url="file://$MODULE_DIR$/32-replacearraywithobject" isTestSource="false" packagePrefix="refactoritzacions" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
